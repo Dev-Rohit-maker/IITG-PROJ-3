@@ -34,5 +34,3 @@ The main function demonstrates how to create a `JobScheduler` with 128 worker no
 - C++11 or later
 - Standard C++ library
 
-## License
-This project is licensed under the MIT License.
